@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #252D79 !important;
+  min-height: 70px;
+}
+
+.navbar .navbar-brand img {
+  height: 40px;
+  width: auto;
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+  font-weight: 500;
+  margin-right: 18px;
+}
+
+.navbar-nav .nav-link.active {
+  text-decoration: underline;
+} 
